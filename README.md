@@ -8,6 +8,7 @@ API to translate between languages.
 ### Installation
 ```bash
 poetry install
+echo 'OPENAI_API_KEY=YOUR_API_KEY' > .env
 ```
 
 ### Running the server locally
